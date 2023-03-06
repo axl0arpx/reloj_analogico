@@ -3,7 +3,7 @@
 :root{
 
     /*--------------- colors ------------ */
-    --hue-color: 3235; /*blue 240 - green 154 - orange 25 */
+    --hue-color: 3230; /*blue 240 - green 154 - orange 25 */
 
     --first-color: hsl(var(--hue-color), 53%, 49%);
     --title-color: hsl(var(--hue-color), 53%, 15%);
